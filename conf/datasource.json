@@ -1,0 +1,10 @@
+{
+    dataSource : {
+        type : "org.nutz.dao.impl.SimpleDataSource",
+        fields : {
+            jdbcUrl : 'jdbc:mysql://localhost:3306/trumpet',
+            username : 'root',
+            password : 'whoami'
+        }
+    }
+}
